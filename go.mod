@@ -1,4 +1,4 @@
-module github.com/whyrusleeping/pubsub
+module github.com/filecoin-project/pubsub
 
 go 1.17
 
